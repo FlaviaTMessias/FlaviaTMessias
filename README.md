@@ -1,9 +1,8 @@
 ###  Olá! Bem-vindo(a) ao meu mundo!  🦁
 
 <div>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+   <img src="https://skillicons.dev/icons?i=,html,css,javascript,react,git">
 </div>
 
 ####
@@ -11,7 +10,7 @@
  <h2>Estudando 📚 </h2>
 
  <div>
-  <img src="https://skillicons.dev/icons?i=,react,git,typescript">
+  <img src="https://skillicons.dev/icons?i=,wordpress,typescript">
  </div>
 
 
